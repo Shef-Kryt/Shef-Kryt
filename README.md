@@ -74,10 +74,9 @@ Focus areas:
 
 ## Currently Looking For
 
-* Junior Flutter Developer opportunities
-* Mobile development projects
-* QA / Software Testing opportunities
-
+- Junior Flutter Developer positions
+- Junior QA Engineer / Manual Tester positions
+- Remote software development opportunities
 ---
 
 ## Contact
