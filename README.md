@@ -62,8 +62,14 @@ https://github.com/Shef-Kryt/roboctrl-flutter-app
 
 ## Education
 
-Bachelor's degree in Computer Science / Software Engineering
+**Bachelor's Degree in Information Systems and Technologies (126)**  
+Ivan Franko National University of Lviv
 
+Focus areas:
+- Software development
+- Mobile application development
+- Information systems design
+- IoT and embedded systems
 ---
 
 ## Currently Looking For
