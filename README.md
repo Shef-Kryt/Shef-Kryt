@@ -1,53 +1,50 @@
-# Hi, I'm Shef
+# Hi, I'm Demian
+## Backend Developer | Python & Databases Enthusiast
 
-## Flutter Developer | Mobile & IoT Enthusiast
-
-I am a software developer focused on building mobile applications with Flutter and Dart.
+I am a software developer transitioning into backend development, focused on building APIs with FastAPI and working with relational databases using SQL.
 
 Currently working with:
-
-* Cross-platform mobile development
-* Bluetooth communication
-* IoT applications
-* Embedded systems integration
+* FastAPI backend development
+* SQL & relational database design
+* Python scripting and automation
+* API design and JSON communication protocols
 
 ---
 
 ## Technical Skills
 
-### Mobile Development
-
-* Flutter
-* Dart
-* Android
-* Material Design 3
-* Provider state management
-
-### Communication & IoT
-
-* Bluetooth Low Energy (BLE)
-* Bluetooth Classic (SPP)
-* Raspberry Pi Pico (RP2040)
+### Backend Development
+* Python
+* FastAPI
+* SQL (queries, schema design, joins)
+* REST API design
 * JSON communication protocols
+* Pydantic (data validation)
+
+### Databases
+* PostgreSQL / SQLite basics
+* Firebase (basic)
+* Database schema design
 
 ### Tools
-
-* Android Studio
 * Visual Studio Code
 * Git / GitHub
-* Firebase (basic)
-* Python (basic)
+* Postman (API testing)
+* Docker (basic)
+
+### Background (previous focus)
+* Flutter & Dart (mobile development)
+* Bluetooth Low Energy (BLE) / Bluetooth Classic (SPP)
+* Raspberry Pi Pico (RP2040) & embedded systems
 
 ---
 
 ## Featured Project
 
 ### RoboCtrl Flutter App
-
-A Flutter mobile application for controlling a Raspberry Pi Pico robotic platform.
+A Flutter mobile application for controlling a Raspberry Pi Pico robotic platform, communicating over Bluetooth (BLE/SPP) with JSON-based messaging.
 
 Features:
-
 * Bluetooth BLE/SPP communication
 * Robot movement control
 * Real-time telemetry
@@ -62,24 +59,24 @@ https://github.com/Shef-Kryt/roboctrl-flutter-app
 
 ## Education
 
-**Bachelor's Degree in Information Systems and Technologies (126)**  
+**Bachelor's Degree in Information Systems and Technologies (126)**
 Ivan Franko National University of Lviv
 
 Focus areas:
 - Software development
-- Mobile application development
 - Information systems design
-- IoT and embedded systems
+- Databases and data modeling
+- Mobile application and embedded systems development
+
 ---
 
 ## Currently Looking For
-
-- Junior Flutter Developer positions
-- Junior QA Engineer / Manual Tester positions
+- Junior Backend Developer (Python / FastAPI) positions
+- Junior SQL / Database Developer positions
 - Remote software development opportunities
+
 ---
 
 ## Contact
-
 GitHub:
 https://github.com/Shef-Kryt
