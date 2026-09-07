@@ -32,11 +32,6 @@ Currently working with:
 * Postman (API testing)
 * Docker (basic)
 
-### Background (previous focus)
-* Flutter & Dart (mobile development)
-* Bluetooth Low Energy (BLE) / Bluetooth Classic (SPP)
-* Raspberry Pi Pico (RP2040) & embedded systems
-
 ---
 
 ## Featured Project
@@ -73,10 +68,3 @@ Focus areas:
 ## Currently Looking For
 - Junior Backend Developer (Python / FastAPI) positions
 - Junior SQL / Database Developer positions
-- Remote software development opportunities
-
----
-
-## Contact
-GitHub:
-https://github.com/Shef-Kryt
